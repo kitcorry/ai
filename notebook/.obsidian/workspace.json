@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "bb08f470b164896a",
+    "type": "split",
+    "children": [
+      {
+        "id": "be13c1a20bfe32c4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c100b515e22757d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Lessons/AI Lessons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2bc479b4be519594",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Lessons/AI Lessons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d66b45cee74e49b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Lessons/Using LLMs on your computer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "675e51912e5ede01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Lessons/AI Lessons.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "17880b39753e3534",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI Lessons/Prompt Engineering 101.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "50be71aec39beebf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d7d7359d4833665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "videos/Index.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1518c22f2e4a5f78",
+    "type": "split",
+    "children": [
+      {
+        "id": "431f2cd952e5e30f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "701d1647c6333ce4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cf990ac5db8ca3eb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d7b55c6eb29dc270",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "472606de938dcfe3",
+    "type": "split",
+    "children": [
+      {
+        "id": "6b32bea98282d999",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6acf72c31b470b7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AI Lessons/Prompt Engineering 101.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "68f073ff635e0628",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AI Lessons/Prompt Engineering 101.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "06a3d1a6ba5b4216",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2d29ccdade74c9dd",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "AI Lessons/Prompt Engineering 101.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "17880b39753e3534",
+  "lastOpenFiles": [
+    "AI Lessons/AI Lessons.md",
+    "AI Lessons/Prompt Engineering 101.md",
+    "AI Lessons/Using LLMs on your computer.md",
+    "videos/Index.md",
+    "videos",
+    "Javis.md",
+    "AI Lessons",
+    "create a link.md"
+  ]
+}
