@@ -4,20 +4,18 @@ from crewai import LLM
 from crewai_tools import SerperDevTool, ScrapeWebsiteTool, WebsiteSearchTool, FileReadTool
 from pydantic import BaseModel
 import os
+from crew_shell.types import BlogPost
+
+
 os.environ["SERPER_API_KEY"] = "2f405e5bfeba7f9d3a747170682d1a7ea5f57721"
-
-
 web_search_tool = WebsiteSearchTool()
 seper_dev_tool = SerperDevTool()
 web_scraper_tool = ScrapeWebsiteTool()
+
 file_read_tool = FileReadTool(
     file_path='job_description_example.md',
     description='A tool to read the job description example file.'
 )
-
-class BlogPost(BaseModel):
-    title: str
-    content: str
 
 @CrewBase
 class BlogPostCrew():

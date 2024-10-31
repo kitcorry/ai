@@ -1,0 +1,17 @@
+research_topic:
+  description: >
+    Research the provided topic of AI to gather the most important information that will 
+    be useful in creating a concise article. Ensure you focus on high-quality, reliable sources.
+  expected_output: >
+    A set of key points and important information about AI that will be used to create the article.
+  agent: researcher
+
+generate_post:
+  description: >
+    Using the insights provided, write a short article that highlights the most significant advancements in AI. 
+    Your article should be informative yet accessible, catering to a tech-savvy audience.
+    Make it sound cool, avoic complex words so it doesn't read like it was written by AI.
+
+  expected_output: >
+    Full blog post of at least 4 paragraphs with a compelling title
+  agent: writer

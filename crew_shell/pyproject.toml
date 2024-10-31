@@ -1,0 +1,20 @@
+[tool.poetry]
+name = "crew-shell"
+version = "0.1.0"
+description = ""
+authors = ["Kit Corry <kit@corrycorp.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.12,<=3.13"
+decouple = "^0.0.7"
+pydantic = "^2.9.2"
+crewai = "^0.76.2"
+langchain-tools = "^0.1.34"
+
+[project.scripts]
+kickoff = "crew_shell.main:kickoff"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
